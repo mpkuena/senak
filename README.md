@@ -1,2 +1,2 @@
 # senak
-Automated trading app
+Automated forex trading app
