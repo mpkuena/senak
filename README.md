@@ -1,0 +1,2 @@
+# senak
+Automated trading app
